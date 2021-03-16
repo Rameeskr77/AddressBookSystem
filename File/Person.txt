@@ -1,0 +1,4 @@
+joyal,jose,28,chavakad,trissur,101
+clint,jose,26,no,trissur,1
+heera,mohan,24,no,trissur,103
+safir,mohammed,27,no,trissur,101
